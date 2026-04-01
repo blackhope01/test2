@@ -1,8 +1,8 @@
 
-🔄 Güncelleme Tarihi: 31.03.2026 10:25:05
+🔄 Güncelleme Tarihi: 01.04.2026 10:42:43
 ════════════════════════════════
-❌ Şehzade Evleri : HATA (000000)
+✅ Şehzade Evleri : AKTİF (404)
 ❌ Test : HATA (000000)
 ════════════════════════════════
-📊 Başarılı: 0 | Hatalı: 2
+📊 Başarılı: 1 | Hatalı: 1
 
